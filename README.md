@@ -1,5 +1,3 @@
-# Check-the-password-
-sheesh
 def checkPassword(password):
     upperChars, lowerChars, specialChars, digits, length = 0, 0, 0, 0, 0
     length = len(password)
